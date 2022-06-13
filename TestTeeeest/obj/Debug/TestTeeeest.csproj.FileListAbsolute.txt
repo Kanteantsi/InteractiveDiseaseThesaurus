@@ -1,0 +1,165 @@
+C:\Users\hzcho\source\repos\TestTeeeest\TestTeeeest\bin\Debug\TestTeeeest.exe.config
+C:\Users\hzcho\source\repos\TestTeeeest\TestTeeeest\bin\Debug\TestTeeeest.exe
+C:\Users\hzcho\source\repos\TestTeeeest\TestTeeeest\bin\Debug\TestTeeeest.pdb
+C:\Users\hzcho\source\repos\TestTeeeest\TestTeeeest\obj\Debug\TestTeeeest.csprojAssemblyReference.cache
+C:\Users\hzcho\source\repos\TestTeeeest\TestTeeeest\obj\Debug\TestTeeeest.Form1.resources
+C:\Users\hzcho\source\repos\TestTeeeest\TestTeeeest\obj\Debug\TestTeeeest.Properties.Resources.resources
+C:\Users\hzcho\source\repos\TestTeeeest\TestTeeeest\obj\Debug\TestTeeeest.csproj.GenerateResource.cache
+C:\Users\hzcho\source\repos\TestTeeeest\TestTeeeest\obj\Debug\TestTeeeest.exe
+C:\Users\hzcho\source\repos\TestTeeeest\TestTeeeest\obj\Debug\TestTeeeest.pdb
+C:\Users\hzcho\source\repos\TestTeeeest\TestTeeeest\obj\Debug\TestTeeeest.Form2.resources
+C:\Users\hzcho\source\repos\TestTeeeest\TestTeeeest\obj\Debug\TestTeeeest.Form3.resources
+C:\Users\hzcho\source\repos\TestTeeeest\TestTeeeest\obj\Debug\TestTeeeest.Form4.resources
+C:\Users\hzcho\source\repos\TestTeeeest\TestTeeeest\obj\Debug\TestTeeeest.Form5.resources
+C:\Users\hzcho\source\repos\TestTeeeest\TestTeeeest\obj\Debug\TestTeeeest.Form6.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.csprojAssemblyReference.cache
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.Form3.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.Form4.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.Form5.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.Form6.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.Properties.Resources.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.csproj.GenerateResource.cache
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.exe
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.pdb
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай\TestTeeeest\bin\Debug\TestTeeeest.exe.config
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай\TestTeeeest\bin\Debug\TestTeeeest.exe
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай\TestTeeeest\bin\Debug\TestTeeeest.pdb
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.MainMenu.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.Profile_Menu.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.DiseaseFlexible.resources
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\bin\Debug\TestTeeeest.exe.config
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\bin\Debug\TestTeeeest.exe
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\bin\Debug\TestTeeeest.pdb
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.DiseaseFlexible.resources
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.MainMenu.resources
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.Profile_Menu.resources
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.Form3.resources
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.Form4.resources
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.Form5.resources
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.Form6.resources
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.Properties.Resources.resources
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.csproj.GenerateResource.cache
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.exe
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.pdb
+C:\Users\Zver\source\repos\TestTeeeestПажалста работай\TestTeeeest\obj\Debug\TestTeeeest.csprojAssemblyReference.cache
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай_Update\TestTeeeest\bin\Debug\TestTeeeest.exe.config
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай_Update\TestTeeeest\bin\Debug\TestTeeeest.exe
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай_Update\TestTeeeest\bin\Debug\TestTeeeest.pdb
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай_Update\TestTeeeest\obj\Debug\TestTeeeest.csprojAssemblyReference.cache
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай_Update\TestTeeeest\obj\Debug\TestTeeeest.DiseaseFlexible.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай_Update\TestTeeeest\obj\Debug\TestTeeeest.MainMenu.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай_Update\TestTeeeest\obj\Debug\TestTeeeest.Profile_Menu.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай_Update\TestTeeeest\obj\Debug\TestTeeeest.Form3.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай_Update\TestTeeeest\obj\Debug\TestTeeeest.Form4.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай_Update\TestTeeeest\obj\Debug\TestTeeeest.Form5.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай_Update\TestTeeeest\obj\Debug\TestTeeeest.Form6.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай_Update\TestTeeeest\obj\Debug\TestTeeeest.Properties.Resources.resources
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай_Update\TestTeeeest\obj\Debug\TestTeeeest.csproj.GenerateResource.cache
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай_Update\TestTeeeest\obj\Debug\TestTeeeest.exe
+C:\Users\hzcho\source\repos\TestTeeeestПажалста работай_Update\TestTeeeest\obj\Debug\TestTeeeest.pdb
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\bin\Debug\TestTeeeest.exe.config
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\bin\Debug\TestTeeeest.exe
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\bin\Debug\TestTeeeest.pdb
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\obj\Debug\TestTeeeest.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\obj\Debug\TestTeeeest.DiseaseFlexible.resources
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\obj\Debug\TestTeeeest.MainMenu.resources
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\obj\Debug\TestTeeeest.Profile_Menu.resources
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\obj\Debug\TestTeeeest.Form3.resources
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\obj\Debug\TestTeeeest.Form4.resources
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\obj\Debug\TestTeeeest.Form5.resources
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\obj\Debug\TestTeeeest.Form6.resources
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\obj\Debug\TestTeeeest.Properties.Resources.resources
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\obj\Debug\TestTeeeest.csproj.GenerateResource.cache
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\obj\Debug\TestTeeeest.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\obj\Debug\TestTeeeest.exe
+C:\Users\Zver\source\repos\КурсачПЕИ_LastUpdate\TestTeeeest\obj\Debug\TestTeeeest.pdb
+C:\Users\hzcho\Desktop\КурсачПЕИ_LastUpdateПОЧТИ ВСЁ\TestTeeeest\bin\Debug\TestTeeeest.exe.config
+C:\Users\hzcho\Desktop\КурсачПЕИ_LastUpdateПОЧТИ ВСЁ\TestTeeeest\bin\Debug\TestTeeeest.exe
+C:\Users\hzcho\Desktop\КурсачПЕИ_LastUpdateПОЧТИ ВСЁ\TestTeeeest\bin\Debug\TestTeeeest.pdb
+C:\Users\hzcho\Desktop\КурсачПЕИ_LastUpdateПОЧТИ ВСЁ\TestTeeeest\obj\Debug\TestTeeeest.csprojAssemblyReference.cache
+C:\Users\hzcho\Desktop\КурсачПЕИ_LastUpdateПОЧТИ ВСЁ\TestTeeeest\obj\Debug\TestTeeeest.DiseaseFlexible.resources
+C:\Users\hzcho\Desktop\КурсачПЕИ_LastUpdateПОЧТИ ВСЁ\TestTeeeest\obj\Debug\TestTeeeest.MainMenu.resources
+C:\Users\hzcho\Desktop\КурсачПЕИ_LastUpdateПОЧТИ ВСЁ\TestTeeeest\obj\Debug\TestTeeeest.Profile_Menu.resources
+C:\Users\hzcho\Desktop\КурсачПЕИ_LastUpdateПОЧТИ ВСЁ\TestTeeeest\obj\Debug\TestTeeeest.Form3.resources
+C:\Users\hzcho\Desktop\КурсачПЕИ_LastUpdateПОЧТИ ВСЁ\TestTeeeest\obj\Debug\TestTeeeest.Form4.resources
+C:\Users\hzcho\Desktop\КурсачПЕИ_LastUpdateПОЧТИ ВСЁ\TestTeeeest\obj\Debug\TestTeeeest.Form5.resources
+C:\Users\hzcho\Desktop\КурсачПЕИ_LastUpdateПОЧТИ ВСЁ\TestTeeeest\obj\Debug\TestTeeeest.Form6.resources
+C:\Users\hzcho\Desktop\КурсачПЕИ_LastUpdateПОЧТИ ВСЁ\TestTeeeest\obj\Debug\TestTeeeest.Properties.Resources.resources
+C:\Users\hzcho\Desktop\КурсачПЕИ_LastUpdateПОЧТИ ВСЁ\TestTeeeest\obj\Debug\TestTeeeest.csproj.GenerateResource.cache
+C:\Users\hzcho\Desktop\КурсачПЕИ_LastUpdateПОЧТИ ВСЁ\TestTeeeest\obj\Debug\TestTeeeest.exe
+C:\Users\hzcho\Desktop\КурсачПЕИ_LastUpdateПОЧТИ ВСЁ\TestTeeeest\obj\Debug\TestTeeeest.pdb
+C:\Users\hzcho\Desktop\ПЕЙЯЖКУ\TestTeeeest\bin\Debug\TestTeeeest.exe.config
+C:\Users\hzcho\Desktop\ПЕЙЯЖКУ\TestTeeeest\bin\Debug\TestTeeeest.exe
+C:\Users\hzcho\Desktop\ПЕЙЯЖКУ\TestTeeeest\bin\Debug\TestTeeeest.pdb
+C:\Users\hzcho\Desktop\ПЕЙЯЖКУ\TestTeeeest\obj\Debug\TestTeeeest.csprojAssemblyReference.cache
+C:\Users\hzcho\Desktop\ПЕЙЯЖКУ\TestTeeeest\obj\Debug\TestTeeeest.DiseaseFlexible.resources
+C:\Users\hzcho\Desktop\ПЕЙЯЖКУ\TestTeeeest\obj\Debug\TestTeeeest.MainMenu.resources
+C:\Users\hzcho\Desktop\ПЕЙЯЖКУ\TestTeeeest\obj\Debug\TestTeeeest.Profile_Menu.resources
+C:\Users\hzcho\Desktop\ПЕЙЯЖКУ\TestTeeeest\obj\Debug\TestTeeeest.Form3.resources
+C:\Users\hzcho\Desktop\ПЕЙЯЖКУ\TestTeeeest\obj\Debug\TestTeeeest.Form5.resources
+C:\Users\hzcho\Desktop\ПЕЙЯЖКУ\TestTeeeest\obj\Debug\TestTeeeest.Form6.resources
+C:\Users\hzcho\Desktop\ПЕЙЯЖКУ\TestTeeeest\obj\Debug\TestTeeeest.Properties.Resources.resources
+C:\Users\hzcho\Desktop\ПЕЙЯЖКУ\TestTeeeest\obj\Debug\TestTeeeest.csproj.GenerateResource.cache
+C:\Users\hzcho\Desktop\ПЕЙЯЖКУ\TestTeeeest\obj\Debug\TestTeeeest.exe
+C:\Users\hzcho\Desktop\ПЕЙЯЖКУ\TestTeeeest\obj\Debug\TestTeeeest.pdb
+C:\Users\hzcho\Desktop\ПЕЙЯЖКУ\TestTeeeest\obj\Debug\TestTeeeest.SearchMenu.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово\TestTeeeest\bin\Debug\TestTeeeest.exe.config
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово\TestTeeeest\bin\Debug\TestTeeeest.exe
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово\TestTeeeest\bin\Debug\TestTeeeest.pdb
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово\TestTeeeest\obj\Debug\TestTeeeest.csprojAssemblyReference.cache
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово\TestTeeeest\obj\Debug\TestTeeeest.DiseaseFlexible.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово\TestTeeeest\obj\Debug\TestTeeeest.MainMenu.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово\TestTeeeest\obj\Debug\TestTeeeest.Profile_Menu.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово\TestTeeeest\obj\Debug\TestTeeeest.Form3.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово\TestTeeeest\obj\Debug\TestTeeeest.SearchMenu.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово\TestTeeeest\obj\Debug\TestTeeeest.Form5.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово\TestTeeeest\obj\Debug\TestTeeeest.Form6.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово\TestTeeeest\obj\Debug\TestTeeeest.Properties.Resources.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово\TestTeeeest\obj\Debug\TestTeeeest.csproj.GenerateResource.cache
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово\TestTeeeest\obj\Debug\TestTeeeest.exe
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово\TestTeeeest\obj\Debug\TestTeeeest.pdb
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.csprojAssemblyReference.cache
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.DiseaseFlexible.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.MainMenu.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.Profile_Menu.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.Form3.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.SearchMenu.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.Form5.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.Form6.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.Properties.Resources.resources
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.csproj.GenerateResource.cache
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.exe
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.pdb
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово-5\TestTeeeest\bin\Debug\TestTeeeest.exe.config
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово-5\TestTeeeest\bin\Debug\TestTeeeest.exe
+C:\Users\hzcho\Desktop\ЕбатьОноПочтиГотово-5\TestTeeeest\bin\Debug\TestTeeeest.pdb
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.exe
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.pdb
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\bin\Debug\TestTeeeest.exe.config
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\bin\Debug\TestTeeeest.exe
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\bin\Debug\TestTeeeest.pdb
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.DiseaseFlexible.resources
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.MainMenu.resources
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.Profile_Menu.resources
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.Form3.resources
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.SearchMenu.resources
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.Form5.resources
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.Form6.resources
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.Properties.Resources.resources
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.csproj.GenerateResource.cache
+C:\Users\Zver\source\repos\ЕбатьОноПочтиГотово-5\TestTeeeest\obj\Debug\TestTeeeest.csproj.CoreCompileInputs.cache
+C:\Users\hzcho\source\repos\Курсовая Работа Программная Инженерия Интерактивный Справочник Болезней 3530202.80002\TestTeeeest\bin\Debug\TestTeeeest.exe.config
+C:\Users\hzcho\source\repos\Курсовая Работа Программная Инженерия Интерактивный Справочник Болезней 3530202.80002\TestTeeeest\bin\Debug\TestTeeeest.exe
+C:\Users\hzcho\source\repos\Курсовая Работа Программная Инженерия Интерактивный Справочник Болезней 3530202.80002\TestTeeeest\bin\Debug\TestTeeeest.pdb
+C:\Users\hzcho\source\repos\Курсовая Работа Программная Инженерия Интерактивный Справочник Болезней 3530202.80002\TestTeeeest\obj\Debug\TestTeeeest.csprojAssemblyReference.cache
+C:\Users\hzcho\source\repos\Курсовая Работа Программная Инженерия Интерактивный Справочник Болезней 3530202.80002\TestTeeeest\obj\Debug\TestTeeeest.MainMenu.resources
+C:\Users\hzcho\source\repos\Курсовая Работа Программная Инженерия Интерактивный Справочник Болезней 3530202.80002\TestTeeeest\obj\Debug\TestTeeeest.Profile_Menu.resources
+C:\Users\hzcho\source\repos\Курсовая Работа Программная Инженерия Интерактивный Справочник Болезней 3530202.80002\TestTeeeest\obj\Debug\TestTeeeest.SearchMenu.resources
+C:\Users\hzcho\source\repos\Курсовая Работа Программная Инженерия Интерактивный Справочник Болезней 3530202.80002\TestTeeeest\obj\Debug\TestTeeeest.DiseaseFlexible.resources
+C:\Users\hzcho\source\repos\Курсовая Работа Программная Инженерия Интерактивный Справочник Болезней 3530202.80002\TestTeeeest\obj\Debug\TestTeeeest.Properties.Resources.resources
+C:\Users\hzcho\source\repos\Курсовая Работа Программная Инженерия Интерактивный Справочник Болезней 3530202.80002\TestTeeeest\obj\Debug\TestTeeeest.csproj.GenerateResource.cache
+C:\Users\hzcho\source\repos\Курсовая Работа Программная Инженерия Интерактивный Справочник Болезней 3530202.80002\TestTeeeest\obj\Debug\TestTeeeest.exe
+C:\Users\hzcho\source\repos\Курсовая Работа Программная Инженерия Интерактивный Справочник Болезней 3530202.80002\TestTeeeest\obj\Debug\TestTeeeest.pdb
+C:\Users\hzcho\source\repos\Курсовая Работа Программная Инженерия Интерактивный Справочник Болезней 3530202.80002\TestTeeeest\obj\Debug\TestTeeeest.csproj.CoreCompileInputs.cache
